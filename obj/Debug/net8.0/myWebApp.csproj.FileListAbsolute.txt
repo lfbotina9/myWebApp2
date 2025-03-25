@@ -28,3 +28,4 @@ E:\Programación de software\Cursos\Azure DevOps\myWebApp\obj\Debug\net8.0\refin
 E:\Programación de software\Cursos\Azure DevOps\myWebApp\obj\Debug\net8.0\myWebApp.pdb
 E:\Programación de software\Cursos\Azure DevOps\myWebApp\obj\Debug\net8.0\myWebApp.genruntimeconfig.cache
 E:\Programación de software\Cursos\Azure DevOps\myWebApp\obj\Debug\net8.0\ref\myWebApp.dll
+E:\Programación de software\Cursos\Azure DevOps\myWebApp\obj\Debug\net8.0\myWebApp.sourcelink.json
